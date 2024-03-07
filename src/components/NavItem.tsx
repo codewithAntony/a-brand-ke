@@ -56,7 +56,7 @@ const NavItem = ({ isAnyOpen, category, handleOpen, isOpen }: NavItemProps) => {
                                                     src={item.imageSrc}
                                                     alt='product category image'
                                                     fill
-                                                    className='object-cover object-center'
+                                                    className='object-cover object-center w-10 h-10'
                                                 />
                                             </div>
 
